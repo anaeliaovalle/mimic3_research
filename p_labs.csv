@@ -1,0 +1,18 @@
+subject_id,hadm_id,icd9_code,long_title,row_id,itemid,charttime,value,valuenum,valueuom,flag,row_id,itemid,label,fluid,category,loinc_code
+50148,175147,2875,"Thrombocytopenia, unspecified",21252743,51229,2147-11-24 23:00:00,0.57,0.57,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+50148,175147,2875,"Thrombocytopenia, unspecified",21252770,51229,2147-11-25 23:00:00,0.92,0.92,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+16085,147230,2875,"Thrombocytopenia, unspecified",9944592,51228,2174-10-21 08:54:00,1.01,1.01,U/mL,abnormal,428,51228,Heparin,Blood,Hematology,13055-9
+90143,185518,2875,"Thrombocytopenia, unspecified",26600143,51229,2101-07-01 08:32:00,0.14,0.14,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+88345,180498,2875,"Thrombocytopenia, unspecified",26372641,51229,2195-04-17 18:48:00,0.67,0.67,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+16726,183873,2875,"Thrombocytopenia, unspecified",10334619,51229,2173-12-06 11:40:00,LESS THAN 0.1,,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+9498,139320,2875,"Thrombocytopenia, unspecified",5956321,51229,2168-08-15 12:30:00,0.5,0.5,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+86628,120435,2875,"Thrombocytopenia, unspecified",26178886,51229,2134-01-26 17:58:00,0.73,0.73,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+79651,166548,2875,"Thrombocytopenia, unspecified",25262574,51229,2115-02-04 12:48:00,1.20,1.2,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+79651,166548,2875,"Thrombocytopenia, unspecified",25262052,51229,2115-01-22 12:49:00,0.97,0.97,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+79651,166548,2875,"Thrombocytopenia, unspecified",25261974,51229,2115-01-20 10:55:00,1.86,1.86,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+21781,139158,2875,"Thrombocytopenia, unspecified",13504741,51228,2194-06-30 12:30:00,1.84,1.84,U/mL,abnormal,428,51228,Heparin,Blood,Hematology,13055-9
+21781,139158,2875,"Thrombocytopenia, unspecified",13504931,51229,2194-07-03 13:52:00,0.41,0.41,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+79664,161109,28984,Heparin-induced thrombocytopenia (HIT),25264596,51228,2196-04-10 01:16:00,0.14,0.14,U/mL,abnormal,428,51228,Heparin,Blood,Hematology,13055-9
+15358,105688,2875,"Thrombocytopenia, unspecified",9506398,51229,2142-06-21 08:03:00,0.25,0.25,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+27121,167456,2875,"Thrombocytopenia, unspecified",16769824,51229,2126-12-14 13:46:00,0.26,0.26,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
+20356,161825,2875,"Thrombocytopenia, unspecified",12596564,51229,2155-02-06 18:42:00,0.83,0.83,U/mL,,429,51229,"Heparin, LMW",Blood,Hematology,32684-3
