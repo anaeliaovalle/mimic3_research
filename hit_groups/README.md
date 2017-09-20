@@ -1,8 +1,8 @@
-### Steroid vs Non-Steroid Use with Heparin-Induced Thrombocytopenia Patients:
+## Steroid vs Non-Steroid Use with Heparin-Induced Thrombocytopenia Patients:
 
 The 2 tables are split up between HIT patients with steroid use (25 rec) and non-steroid use (64 rec).
 
-#### Features:
+### Features:
 - **subject_id**: Patient id: Unique INT
 - **hadm_id**: Hospital admission id : Unique INT
   - One subject may have more than one hadm_id, indicating multiple admissions
@@ -27,7 +27,7 @@ The 2 tables are split up between HIT patients with steroid use (25 rec) and non
 
 More information on features can be found in tables used in the SQL code and cross referencing them [here](https://mimic.physionet.org/mimictables/admissions/).
 
-#### Methodology
+### Methodology
 It was found that multiple HIT patients have several admission times where they may or may not have used steroids as treatment. To get a clean separation between use/not use, the following steps were taken:
 1) A table was created that had all patient data (filtered by the icd9 code that is HIT dx), those that used steroids (e.g. prednisone, methylprednisolone, or dexamethasone) and those that did not use steroids.
 2) We then get the earliest timestamp of admission for ALL of the patients in step 1 in order to get one subject_id/hadm_id
