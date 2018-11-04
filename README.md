@@ -1,4 +1,4 @@
-# mimic3 project
+# Thrombocytopenia mimic3 project
 
 MIMIC3 Project.ipynb contains tables pertaining to Thrombocytopenia / Heparin-Induced Thrombocytopenia Patients such as:
 - [Admissions and Demographics](https://mimic.physionet.org/mimictables/admissions/) (3,524 rec)
